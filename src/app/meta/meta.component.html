@@ -1,1 +1,6 @@
-<p>meta works!</p>
+<div class="metatop">    
+    <div *ngFor="let meta of metaData">
+        <label>{{meta.label}}</label>
+        <p>{{meta.data}}</p>
+    </div>
+</div>

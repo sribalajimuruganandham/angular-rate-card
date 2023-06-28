@@ -1,0 +1,22 @@
+.amount{
+    display : flex;
+    gap : 20px;
+    width: 280px;
+    justify-content: center;
+}
+.amountTop{
+    border-left:1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.viewDetail{
+  height: 40px;
+  width: 200px;
+  background-color: #3FE48F;
+  border: 1px solid #3FE48F;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 16px;
+}

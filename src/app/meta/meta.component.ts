@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MetaComponent implements OnInit {
 
+  metaData:any = [{label:"Trasit Time",data:"12"},{label:"Trasit Time",data:"12"},{label:"Trasit Time",data:"12"},{label:"Trasit Time",data:"12"},{label:"Trasit Time",data:"12"},{label:"Trasit Time",data:"12"}];
   constructor() { }
 
   ngOnInit(): void {
