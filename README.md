@@ -23,12 +23,6 @@ This Angular-based application displays rate card information for logistics cont
 * **Language**: TypeScript
 * **Styling**: CSS / SCSS
 
-## 📸 Screenshot
-
-![Rate Card UI](./path-to-your-screenshot.png) <!-- Replace with actual path if uploaded -->
-
-## 🛠️ Getting Started
-
 ### Prerequisites
 
 * Node.js (v16+ recommended)
