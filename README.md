@@ -31,8 +31,8 @@ This Angular-based application displays rate card information for logistics cont
 ### Installation
 
 ```bash
-git clone https://github.com/sribalajimuruganandham/angular-rate-card-poc.git
-cd angular-rate-card-poc
+git clone https://github.com/sribalajimuruganandham/angular-rate-card.git
+cd angular-rate-card
 npm install
 ```
 
